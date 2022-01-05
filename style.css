@@ -1,0 +1,99 @@
+body {
+  font-family: "Poppins", sans-serif;
+  font-family: "Prompt", sans-serif;
+  font-family: "PT Sans", sans-serif;
+  margin: 0;
+}
+h1 {
+  font-size: 50px;
+  font-weight: bolder;
+  margin: 0;
+}
+p {
+  font-size: 16px;
+  text-align: justify;
+  padding: 10px;
+}
+.container {
+  max-width: 90%;
+  margin: auto;
+}
+section {
+  margin-bottom: 80px;
+}
+.focuse {
+  border-left: 3px solid tomato;
+}
+.left-header {
+  padding-top: 60px;
+}
+.mission {
+  color: orange;
+}
+.header-section {
+  display: flex;
+}
+.half-width {
+  width: 50%;
+  margin-left: 100px;
+}
+.half-width img {
+  width: 70%;
+}
+
+.default-btn {
+  text-decoration: none;
+  padding: 10px 30px;
+  border-radius: 5px;
+  color: white;
+  background-image: linear-gradient(tomato, orange);
+}
+.middle {
+  display: flex;
+}
+.text-center {
+  text-align: center;
+  margin-bottom: 50px;
+}
+.card {
+  width: 29%;
+  margin-left: 2%;
+  margin-right: 2%;
+  border-radius: 10px;
+}
+.left-card {
+  background-color: rgb(89, 218, 164);
+}
+.middle-card {
+  background-color: rgb(223, 167, 215);
+}
+.right-card {
+  background-color: rgb(99, 114, 70);
+}
+.card img {
+  width: 150px;
+  height: 150px;
+  padding-left: 20px;
+}
+.card h2 {
+  font-weight: bold;
+  padding-left: 20px;
+}
+.card p {
+  padding-left: 20px;
+}
+.form-control {
+  width: 70%;
+  padding: 10px;
+  font-size: 16px;
+}
+footer {
+  background-color: black;
+}
+footer h2,
+h5 {
+  color: white;
+  text-align: center;
+  margin: 0;
+  padding: 10px;
+}
