@@ -73,13 +73,13 @@ section {
   border-radius: 10px;
 }
 .left-card {
-  background-color: rgb(89, 218, 164);
+  background-color: rgba(192, 192, 192, 0.3);
 }
 .middle-card {
-  background-color: rgb(223, 167, 215);
+  background-color: hsla(120, 60%, 70%, 0.3);
 }
 .right-card {
-  background-color: rgb(99, 114, 70);
+  background-color: rgba(255, 255, 0, 0.3);
 }
 .card img {
   width: 150px;
