@@ -22,7 +22,8 @@ section {
   margin-bottom: 80px;
 }
 .focuse {
-  border-left: 3px solid tomato;
+  border-left: 4px solid tomato;
+  padding-left: 10px;
 }
 .left-header {
   padding-top: 60px;
@@ -32,6 +33,16 @@ section {
 }
 .header-section {
   display: flex;
+}
+.banner-one {
+  background-image: url(images/shapes/dream-bg.png);
+  background-repeat: no-repeat;
+  background-position: left;
+}
+.banner-two {
+  background-image: url(images/shapes/dream-bg.png);
+  background-repeat: no-repeat;
+  background-position: right;
 }
 .half-width {
   width: 50%;
