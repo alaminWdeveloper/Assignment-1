@@ -28,7 +28,7 @@ section {
 .left-header {
   padding-top: 60px;
 }
-.mission {
+.font-color {
   color: orange;
 }
 .header-section {
@@ -107,4 +107,7 @@ h5 {
   text-align: center;
   margin: 0;
   padding: 10px;
+}
+.fot {
+  color: rgb(240, 70, 70);
 }
